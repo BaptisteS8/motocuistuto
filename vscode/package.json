@@ -1,12 +1,11 @@
 {
   "name": "vscode",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "sass": "sass --no-source-map --watch ./main.scss:./style.css"
+    "test": "sass --no-source-map --watch ./main.scss:./style.css"
   },
   "author": "",
   "license": "ISC",
   "description": ""
 }
-
